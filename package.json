@@ -6,13 +6,12 @@
   "scripts": {
     "dev": "tsc index.ts && node index.js",
     "start": " node index.js",
-    "build":"tsc index.ts",
+    "build": "tsc index.ts",
     "test": "echo \"Error: no test specified\""
   },
   "author": "nakul",
   "license": "ISC",
   "devDependencies": {
-    "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   }
 }
